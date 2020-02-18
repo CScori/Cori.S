@@ -218,6 +218,44 @@ input, select, textarea {
 		max-width: 100%;
 		width: 1400px;
 	}
+/* skills gradient proficiency */
+	.grad {
+		height: 30px;
+		width: 95%;
+		border: solid 1px black;
+		border-radius: 5%;
+		color: grey;
+		font-size: .8em;
+		text-align: center;
+	}
+	
+	.grad .found {
+		border-top-right-radius: 10%;
+		border-bottom-right-radius: 10%;
+		background-image: linear-gradient(to right, rgb(0, 140, 255), rgb(177, 248, 177));
+		height: 28px;
+		width: 30%;
+	}
+	.grad .int{
+		border-top-right-radius: 10%;
+		border-bottom-right-radius: 10%;
+		background-image: linear-gradient(to right, rgb(0, 140, 255), rgb(177, 248, 177));
+		height: 28px;
+		width: 50%;
+	}
+	.grad .adv{
+		border-top-right-radius: 10%;
+		border-bottom-right-radius: 10%;
+		background-image: linear-gradient(to right, rgb(0, 140, 255), rgb(177, 248, 177));
+		height: 28px;
+		width: 75%;
+	}
+	.grad .exp{
+		border-radius: 5%;
+		background-image: linear-gradient(to right, rgb(0, 140, 255), rgb(177, 248, 177));
+		height: 28px;
+		width: 100%;
+	}
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
 
@@ -1756,15 +1794,15 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 100px;
-			height: 100px;
+			width: 75px;
+			height: 75px;
 			background: rgb(97, 205, 248);
-			margin-bottom: 15px;
+			margin-bottom: 0 15px 15px 0;
 		}
 
 			.image.avatar48 img {
-				width: 100px;
-				height: 100px;
+				width: 75px;
+				height: 75px;
 				border-radius: 100px;
 			}
 
