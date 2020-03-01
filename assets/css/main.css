@@ -1797,6 +1797,7 @@ input, select, textarea {
 			width: 75px;
 			height: 75px;
 			background: rgb(97, 205, 248);
+			border-radius: 100px;
 			margin-bottom: 0 15px 15px 0;
 		}
 
