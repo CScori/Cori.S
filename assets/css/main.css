@@ -241,20 +241,20 @@ input, select, textarea {
 		border-bottom-right-radius: 10%;
 		background-image: linear-gradient(to right, rgb(0, 140, 255), rgb(177, 248, 177));
 		height: 28px;
-		width: 50%;
+		width: 59%;
 	}
 	.grad .adv{
 		border-top-right-radius: 10%;
 		border-bottom-right-radius: 10%;
 		background-image: linear-gradient(to right, rgb(0, 140, 255), rgb(177, 248, 177));
 		height: 28px;
-		width: 75%;
+		width: 80%;
 	}
 	.grad .exp{
 		border-radius: 5%;
 		background-image: linear-gradient(to right, rgb(0, 140, 255), rgb(177, 248, 177));
 		height: 28px;
-		width: 100%;
+		width: 95%;
 	}
 
 		@media screen and (min-width: 961px) and (max-width: 1880px) {
