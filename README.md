@@ -1,4 +1,4 @@
-# Cori.sternberg.io
+# Cori-nicole.com
 
 Prologue by HTML5 UP
 html5up.net | @ajlkn
