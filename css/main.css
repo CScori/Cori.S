@@ -1501,8 +1501,9 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     left: 0;
     width: 100%;
     height: 100%;
-    opacity: .5;
+    opacity: .2;
     background-color: #fcfcfca4;
+    
 }
 
 .no-js .s-home {
